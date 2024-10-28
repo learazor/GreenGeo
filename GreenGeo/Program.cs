@@ -1,3 +1,4 @@
+using System.Globalization;
 using System.Net;
 using System.Net.Sockets;
 using System.Text;
@@ -37,13 +38,9 @@ class Program
                 string postalCode1 = parts[1];
                 string country2 = parts[2];
                 string postalCode2 = parts[3];
-
                 
                 double distance = CalculateDistance(country1, postalCode1, country2, postalCode2);
-
-                
-                string response = $"{distance}";
-                byte[] responseBytes = Encoding.UTF8.GetBytes(response);
+                byte[] responseBytes = Encoding.UTF8.GetBytes(distance.ToString(CultureInfo.InvariantCulture));
                 await networkStream.WriteAsync(responseBytes, 0, responseBytes.Length);
 
                 Console.WriteLine("Response sent.");
