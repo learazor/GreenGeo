@@ -7,7 +7,7 @@ using Newtonsoft.Json.Linq;
 
 public class LocationDistanceCalculator
 {
-    private const string GoogleGeocodingApiKey = "YOUR_GOOGLE_API_KEY";
+    private const string GoogleGeocodingApiKey = "AIzaSyB1F32YxHGafTJzkI3vLHd6VR-IzV6FcCs";
 
     public async Task<(double latitude, double longitude)> GetCoordinatesAsync(string country, string postalCode)
     {

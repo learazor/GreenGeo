@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GreenGeo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dbbe2a3dac531258ce03eee894e94cbb5328085f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba2c11f242505c9f2d74666ffccfacca5ad91b97")]
 [assembly: System.Reflection.AssemblyProductAttribute("GreenGeo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GreenGeo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

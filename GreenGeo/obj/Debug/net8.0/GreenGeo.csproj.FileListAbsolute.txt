@@ -24,3 +24,6 @@ C:\Users\tchou\RiderProject\temp\GreenGeo\GreenGeo\obj\Debug\net8.0\refint\Green
 C:\Users\tchou\RiderProject\temp\GreenGeo\GreenGeo\obj\Debug\net8.0\GreenGeo.pdb
 C:\Users\tchou\RiderProject\temp\GreenGeo\GreenGeo\obj\Debug\net8.0\GreenGeo.genruntimeconfig.cache
 C:\Users\tchou\RiderProject\temp\GreenGeo\GreenGeo\obj\Debug\net8.0\ref\GreenGeo.dll
+C:\Users\tchou\RiderProject\temp\GreenGeo\GreenGeo\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\tchou\RiderProject\temp\GreenGeo\GreenGeo\obj\Debug\net8.0\GreenGeo.csproj.AssemblyReference.cache
+C:\Users\tchou\RiderProject\temp\GreenGeo\GreenGeo\obj\Debug\net8.0\GreenGeo.csproj.Up2Date
